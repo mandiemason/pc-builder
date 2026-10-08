@@ -1,0 +1,10 @@
+ CPU: Intel Core i9-14900K
+ Motherboard: ASUS Prime B550-PLUS
+ RAM (Memory): G.SKILL Trident Z5 RGB Series 64GB (2 x 32GB)
+ GPU: ASUS Dual GeForce RTX 4070 Super 12GB DDR6
+ Case: Fractal Design Pop XL Air RGB Black ATX Mid Tower
+ Power Supply: CORSAIR RM1000e
+ Storage: SAMSUNG 980 PRO SSD NVMe M.2 2TB
+ CPU Cooler: DeepCool LT720 Premium Liquid CPU Cooler
+    
+    
